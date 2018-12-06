@@ -1,0 +1,604 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g-citi.org" resolutions="1x" timestamp="1537810110219">
+  <folder name="css">
+    <file name="site_global.css" crc="3858736466"/>
+    <file name="master_a-master.css" crc="4088501231" ref="site-visits:digital-skills:success-stories:board-members:impact:entrepreneurship:about-us:certiport:about-i-can:index:contact-us:about-g-citi:education:impact-results:videos:social-innovation:gallery:staff-members:courses:services:photos"/>
+    <file name="site-visits.css" crc="456858382" ref="site-visits"/>
+    <file name="iefonts_site-visits.css" crc="304790931" ref="site-visits"/>
+    <file name="digital-skills.css" crc="25610498" ref="digital-skills"/>
+    <file name="success-stories.css" crc="507560768" ref="success-stories"/>
+    <file name="board-members.css" crc="4285167967" ref="board-members"/>
+    <file name="impact.css" crc="507560768" ref="impact"/>
+    <file name="entrepreneurship.css" crc="449379694" ref="entrepreneurship"/>
+    <file name="about-us.css" crc="507560768" ref="about-us"/>
+    <file name="certiport.css" crc="478617837" ref="certiport"/>
+    <file name="about-i-can.css" crc="4244532454" ref="about-i-can"/>
+    <file name="iefonts_about-i-can.css" crc="37118017" ref="about-i-can"/>
+    <file name="index.css" crc="4008630127" ref="index"/>
+    <file name="iefonts_index.css" crc="170859891" ref="index"/>
+    <file name="contact-us.css" crc="4006842771" ref="contact-us"/>
+    <file name="about-g-citi.css" crc="441919034" ref="about-g-citi"/>
+    <file name="iefonts_about-g-citi.css" crc="277349195" ref="about-g-citi"/>
+    <file name="education.css" crc="172309823" ref="education"/>
+    <file name="impact-results.css" crc="191467765" ref="impact-results"/>
+    <file name="iefonts_impact-results.css" crc="3992637726" ref="impact-results"/>
+    <file name="videos.css" crc="119376836" ref="videos"/>
+    <file name="social-innovation.css" crc="387401257" ref="social-innovation"/>
+    <file name="gallery.css" crc="507560768" ref="gallery"/>
+    <file name="staff-members.css" crc="4018516053" ref="staff-members"/>
+    <file name="courses.css" crc="4067941862" ref="courses"/>
+    <file name="services.css" crc="507560768" ref="services"/>
+    <file name="photos.css" crc="190572" ref="photos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:staff-members:entrepreneurship:courses:about-g-citi"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact-us:about-i-can:social-innovation:education:entrepreneurship:digital-skills:courses:photos:about-g-citi:impact-results"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:about-i-can:social-innovation:education:entrepreneurship:digital-skills:courses:photos:about-g-citi:impact-results"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:about-i-can:social-innovation:education:entrepreneurship:digital-skills:courses:photos:about-g-citi:impact-results"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:about-i-can:social-innovation:education:entrepreneurship:digital-skills:courses:photos:about-g-citi:impact-results"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="require.js" crc="7928878" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="form_check.php" crc="3820983874" ref="contact-us"/>
+    <file name="form_process.php" crc="3776570906" ref="contact-us"/>
+    <file name="form-u18946.php" crc="4137816886" ref="contact-us"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="digital-skills:photos"/>
+    <file name="form-u7473.php" crc="145355542" ref="courses"/>
+  </folder>
+  <folder name="images">
+    <file name="u6083-4.png" crc="3788000545" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="ican centre logo.png" crc="224685368" seo="true" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="certiport" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="success-stories" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="entrepreneurship" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="site-visits" alt=""/>
+      <caption webpage="staff-members" alt=""/>
+      <caption webpage="about-g-citi" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="about-i-can" alt=""/>
+      <caption webpage="board-members" alt=""/>
+      <caption webpage="social-innovation" alt=""/>
+      <caption webpage="impact" alt=""/>
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="u6809-4.png" crc="36522323" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="u6812-4.png" crc="4146715210" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="16105805_1851391421805058_5037001237397071614_n-u494-fr.jpg" crc="74388760" ref="index"/>
+    <file name="16105805_1851391421805058_5037001237397071614_n-u494-r-fr.png" crc="32686443" ref="index"/>
+    <file name="whatsapp image 2017-05-27 at 135339.jpg" crc="17887595" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2017-05-27 at 135339-u6941-r-fr.png" crc="507483286" ref="index"/>
+    <file name="14906941_1812438502367017_4833938967261286877_n.jpg" crc="3777261003" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14906941_1812438502367017_4833938967261286877_n-u6948-r-fr.png" crc="378123220" ref="index"/>
+    <file name="img_0586.jpg" crc="144389026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0586-u6955-r-fr.png" crc="4027075098" ref="index"/>
+    <file name="photos.jpg" crc="235750909" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dedt.jpg" crc="3802136730" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-12.png" crc="204798731" seo="true" ref="index:digital-skills">
+      <caption webpage="index" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="logo-9.png" crc="4060575252" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3829932496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-7.png" crc="172131560" seo="true" ref="index:digital-skills">
+      <caption webpage="index" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="logo-11.png" crc="4086762496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download-u18696-fr.jpg" crc="173973392" ref="index"/>
+    <file name="images (1).jpg" crc="4147313876" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="340011.jpg" crc="3992455941" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-8.png" crc="4148639087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-3.png" crc="452218548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sace_26950_sace.png" crc="175664692" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35987869_941080819412494_5655359373388546048_n.jpg" crc="4036554316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="succes3-crop-u18451.jpg" crc="4284986373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="succes 2.jpg" crc="374962083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="success 1.jpg" crc="185992978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u230-15.png" crc="177318437" ref="index:about-us:services:gallery:contact-us:about-i-can:board-members:staff-members:social-innovation:education:entrepreneurship:digital-skills:courses:certiport:photos:videos:about-g-citi:impact:site-visits:success-stories:impact-results"/>
+    <file name="slide-3.jpg" crc="4253566388" seo="true" ref="about-i-can">
+      <caption webpage="about-i-can" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="about-i-can:social-innovation:education:digital-skills:photos:impact-results"/>
+    <file name="slide-4.jpg" crc="135765579" seo="true" ref="about-i-can">
+      <caption webpage="about-i-can" alt=""/>
+    </file>
+    <file name="slide-5.jpg" crc="359671511" seo="true" ref="about-i-can">
+      <caption webpage="about-i-can" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about-i-can:social-innovation:education:digital-skills:photos:impact-results"/>
+    <file name="llewellyn1.jpg" crc="394283464" ref="staff-members">
+      <caption webpage="staff-members" alt=""/>
+    </file>
+    <file name="img_0197.jpg" crc="3991695884" ref="staff-members">
+      <caption webpage="staff-members" alt=""/>
+    </file>
+    <file name="13726804_163334690743447_6439295724254179219_n.jpg" crc="351611368" ref="staff-members">
+      <caption webpage="staff-members" alt=""/>
+    </file>
+    <file name="app-dev.jpg" crc="253974174" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="6954c125-2463-4d1e-9788-e108737f15c0.jpg" crc="270460108" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="uwc cyber security short course.jpg" crc="3909240807" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="recording studio projects.jpg" crc="4053386977" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="i-can gaming day competition.jpg" crc="3975501178" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="i-can gaming day competition2.jpg" crc="467523071" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="ctv - live show (ekse).gif" crc="67283811" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="u17802-10.png" crc="3830118593" ref="social-innovation"/>
+    <file name="3d printing project3.jpg" crc="3932707666" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="3d printing project2.jpg" crc="3890783720" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="3d printing project.jpg" crc="3898679639" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="pasted image 468x312.jpg" crc="3820784068" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="pasted image 468x3122.jpg" crc="286890882" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="pasted image 468x361.jpg" crc="3936805773" seo="true" ref="social-innovation">
+      <caption webpage="social-innovation" alt=""/>
+    </file>
+    <file name="education.jpg" crc="4272989224" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="sanzaf.gif" crc="72857261" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="city of cape town career expo.gif" crc="4062398460" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="i-can digital winter school.gif" crc="4075642451" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="i-can digital winter school1.gif" crc="107421897" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="web rangers project.jpg" crc="3812977585" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="pasted image 450x347.jpg" crc="494694392" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="entre.jpg" crc="535273789" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="entrep.jpg" crc="3763213925" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="ent.jpg" crc="4171818929" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrpreneurship week project.jpg" crc="362355862" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="female entrepreneurship day.jpg" crc="219173985" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can business breakfast.jpg" crc="3938264740" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="creating youth digital entrepreneurs - 2018.jpg" crc="96764974" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="the infamous youth show.gif" crc="4093523600" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week1.jpg" crc="344782354" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week2.jpg" crc="249251464" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 28-29 aug 2016.jpg" crc="297500856" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 28-29 aug 20161.jpg" crc="4033412575" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 28-29 aug 20162.jpg" crc="125841092" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 2-5 nov 2016.jpg" crc="4227338249" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 2-5 nov 20163.jpg" crc="89325830" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="i-can entrepreneurship week 2-5 nov 20162.jpg" crc="3987090785" seo="true" ref="entrepreneurship">
+      <caption webpage="entrepreneurship" alt=""/>
+    </file>
+    <file name="digital-1.jpg" crc="87625035" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="digital-2.jpg" crc="398727247" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="digital-3.jpg" crc="3764030158" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="ican centre logo2.png" crc="30243195" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="download.jpg" crc="205607608" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="images.jpg" crc="4223705015" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="download2.jpg" crc="252997556" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="logo-4.png" crc="129450688" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="microsoft office specialist training.jpg" crc="3953760642" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="africa code week in partnership with uwc.jpg" crc="4008963073" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="it digital job-readiness project.jpg" crc="5719793" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="dedat digital skills programme.jpg" crc="397318032" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="dedat digital skills programme2.jpg" crc="4223901541" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="dedat digital skills programme3.jpg" crc="3864301586" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="dedat digital skills programme4.jpg" crc="50923497" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="sanzaf sponsorship for students.jpg" crc="94504804" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="computer basics for kids.jpg" crc="4169517055" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="robotics taking over.jpg" crc="3770668303" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="digify bytes workshop.jpg" crc="3896604773" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="digify bytes workshop1.jpg" crc="385522051" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="digify bytes workshop2.jpg" crc="3852335892" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="i-can and college of cape town graduation.jpg" crc="479437650" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="i-can and college of cape town graduation2.jpg" crc="46233402" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="i-can and college of cape town graduation3.jpg" crc="29271288" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="free internet from sonic wireless.jpg" crc="361498389" seo="true" ref="digital-skills">
+      <caption webpage="digital-skills" alt=""/>
+    </file>
+    <file name="img_1117.jpg" crc="3943364534" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="img_0589.jpg" crc="4171008263" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="img_0278.jpg" crc="4243164079" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="email-300x78.gif" crc="535228793" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="phone-300x78.gif" crc="3794411268" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="fax-300x78.gif" crc="4057265664" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="pasted image 170x76.jpg" crc="3775814956" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 185x76.jpg" crc="3953410557" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 181x76.jpg" crc="4290392406" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 188x76.jpg" crc="358752719" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 178x76.jpg" crc="486494282" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 185x67.jpg" crc="140567854" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 181x67.jpg" crc="3969451113" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="pasted image 188x67.jpg" crc="480667999" seo="true" ref="certiport">
+      <caption webpage="certiport" alt=""/>
+    </file>
+    <file name="img_0229-crop-u7589.jpg" crc="339944425" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0323-crop-u7591.jpg" crc="3998689123" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0810-crop-u7583.jpg" crc="3892748744" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0798-crop-u7585.jpg" crc="264181178" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0357-crop-u7587.jpg" crc="3929432969" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0848-crop-u7593.jpg" crc="55958068" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0229.jpg" crc="246135310" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0323.jpg" crc="3824709987" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0810.jpg" crc="3760842972" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0798.jpg" crc="224668788" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0357.jpg" crc="3910797489" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0848.jpg" crc="3833246088" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0558-crop-u7679.jpg" crc="406671183" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0868-crop-u7685.jpg" crc="4192941651" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0424-crop-u7677.jpg" crc="257851677" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0546-crop-u7675.jpg" crc="218882552" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0451-crop-u7681.jpg" crc="368827595" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0136-crop-u7683.jpg" crc="266731361" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0558.jpg" crc="103963370" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0868.jpg" crc="374534759" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0424.jpg" crc="4216844025" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0546.jpg" crc="3866780625" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0451.jpg" crc="4060822984" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0136.jpg" crc="3796498529" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0863-crop-u7630.jpg" crc="359235404" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0356-crop-u7628.jpg" crc="247158496" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0872-crop-u7624.jpg" crc="4191624538" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0870-crop-u7626.jpg" crc="37583176" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0417-crop-u7622.jpg" crc="34431628" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0491-crop-u7632.jpg" crc="335977360" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0863.jpg" crc="272640175" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0356.jpg" crc="4138514228" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0872.jpg" crc="3982629480" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0870.jpg" crc="4168708714" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0417.jpg" crc="205020706" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="img_0491.jpg" crc="4245593679" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="colage 2.jpg" crc="191721556" ref="about-g-citi">
+      <caption webpage="about-g-citi" alt=""/>
+    </file>
+    <file name="colage 4.jpg" crc="4249439968" ref="about-g-citi">
+      <caption webpage="about-g-citi" alt=""/>
+    </file>
+    <file name="site visit - mayor of cape agulhas.jpg" crc="391668447" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="eoh site visit.jpg" crc="4133604354" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site-visit from new york.jpg" crc="111993362" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="tilburg university site visit.jpg" crc="54865966" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="karen walstra site visit (i-can google day).jpg" crc="499931566" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="karen walstra site visit (i-can google day)2.jpg" crc="213086086" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site visit of siyabulela mamkeli “mini mayor.jpg" crc="459269641" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site visit of siyabulela mamkeli “mini mayor2.jpg" crc="4034495787" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site visit of solly fourie - dedat.gif" crc="515314362" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="alan.gif" crc="4137882945" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="140c4e7a-776a-41a9-840e-3d816d178572.gif" crc="4056688087" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site visit of jenny cargil (premier-s office).jpg" crc="193960456" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="site visit of michael leighman (photostartorg - usa).gif" crc="524851108" seo="true" ref="site-visits">
+      <caption webpage="site-visits" alt=""/>
+    </file>
+    <file name="q.png" crc="4111812409" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="w.png" crc="374598585" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="reason-for-visit.jpg" crc="4046135950" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="u17382-9.png" crc="455436153" ref="impact-results"/>
+    <file name="o.png" crc="6739529" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="j.png" crc="291314406" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="g.png" crc="449935975" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="u17466-8.png" crc="163944339" ref="impact-results"/>
+    <file name="b.png" crc="4038737197" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="l.png" crc="4091931707" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+    <file name="m.png" crc="3994163301" seo="true" ref="impact-results">
+      <caption webpage="impact-results" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3853704485" seo="true" mt="1537809726539" redirect="true"/>
+  <file name="about-us.html" crc="4160961322" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="services.html" crc="179552368" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="gallery.html" crc="38786308" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="contact-us.html" crc="4280304128" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="about-i-can.html" crc="4022136424" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="board-members.html" crc="335194384" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="staff-members.html" crc="125170974" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="social-innovation.html" crc="391224666" seo="true" mt="1537809752128" redirect="true"/>
+  <file name="education.html" crc="511143287" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="entrepreneurship.html" crc="4270472772" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="digital-skills.html" crc="410150394" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="courses.html" crc="3901754336" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="certiport.html" crc="3950709791" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="photos.html" crc="422242036" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="videos.html" crc="3839689234" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="about-g-citi.html" crc="293871364" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="impact.html" crc="4170030571" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="site-visits.html" crc="206559038" seo="true" mt="1537809882102" redirect="true"/>
+  <file name="success-stories.html" crc="456388395" seo="true" mt="1537809461646" redirect="true"/>
+  <file name="impact-results.html" crc="4084501992" seo="true" mt="1537809461646" redirect="true"/>
+</manifest>
